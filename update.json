@@ -1,0 +1,7 @@
+{
+  "version": "2.0",
+  "channel": "stable",
+  "notes": "JARVIS 2.0 release channel initialized. Binary URL will be populated when the Windows build is published.",
+  "download_url": "",
+  "sha256": ""
+}
