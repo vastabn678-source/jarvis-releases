@@ -1,7 +1,7 @@
 {
-  "version": "5.4",
   "channel": "stable",
+  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.4/JARVIS.zip",
+  "sha256": "bff02cd312e34dcbf3f63b2457bd4da912ab071127b56f3a522dc62cd1080eeb",
   "notes": "JARVIS 5.4 stable update",
-  "sha256": "9956746922ce38b413452f9b0fcd2c09eecf11931b8e0bb985e4a4152625482b",
-  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.4/JARVIS.zip"
+  "version": "5.4"
 }
