@@ -1,7 +1,7 @@
 {
-  "version": "5.0",
   "channel": "stable",
-  "notes": "JARVIS RELEASE 5.0 updater-enabled baseline.",
-  "download_url": "",
-  "sha256": ""
+  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/latest/JARVIS.exe",
+  "version": "5.1",
+  "sha256": "4e21c57e21134da81827cda929ba028b6e3526b5c1916bba1ea83a009acb46fa",
+  "notes": "Automatic agent/executor update"
 }
