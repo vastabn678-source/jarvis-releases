@@ -1,7 +1,7 @@
 {
-  "notes": "JARVIS 5.4 stable update",
-  "version": "5.4",
-  "sha256": "5b3595ad203867b517f02e22726deaa11631842c18314d3c678713787652d27d",
-  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.4/JARVIS.zip",
-  "channel": "stable"
+  "sha256": "69d5cd9f53a133ee7eed7aa92e51b7a0f65131a222c1c2416a3e67f7a5576c1b",
+  "version": "5.2",
+  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.2/JARVIS.zip",
+  "channel": "stable",
+  "notes": "Portable Windows runtime hotfix"
 }
