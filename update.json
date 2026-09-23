@@ -1,7 +1,7 @@
 {
-  "notes": "JARVIS 5.4 stable update",
+  "notes": "JARVIS 5.5 stable update: QA fixes for speech, files, language and API providers",
+  "version": "5.5",
   "channel": "stable",
-  "sha256": "527df66ffbf81c31623be9aaec4d8e892fe77b2b88060cb245cf0644916f314c",
-  "version": "5.4",
-  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.4/JARVIS.zip"
+  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.5/JARVIS.zip",
+  "sha256": "5681ce09f8b70e9e51d1aa64026f3e8e9ac863e2dc787d291ec167b55defec7d"
 }
