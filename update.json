@@ -1,7 +1,7 @@
 {
+  "sha256": "c54fd79a50202c27212e07f979a4b35aa38b0794e6e81c355ad5fb5d82b4cd28",
+  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.6/JARVIS.zip",
   "channel": "stable",
-  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.5.2/JARVIS.zip",
-  "version": "5.5.2",
-  "sha256": "0d9cb726e2ec657799bd992377bc0d8eef46db15dfda4a4862536b0d90a9a604",
-  "notes": "JARVIS 5.5.2 stable update: Mobile Bridge port diagnostics and Wi-Fi discovery fixes"
+  "version": "5.6",
+  "notes": "JARVIS 5.6 stable update: Mobile Bridge port diagnostics and Wi-Fi discovery fixes"
 }
