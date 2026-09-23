@@ -1,7 +1,7 @@
 {
-  "sha256": "602f5a2fed257a9c5dea9f27b442acfb1ba773161c1cb616ca087aeb31c32512",
-  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.1.2/JARVIS.zip",
-  "version": "5.1.2",
-  "notes": "Portable Windows runtime hotfix",
-  "channel": "stable"
+  "version": "5.1.3",
+  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.1.3/JARVIS.zip",
+  "sha256": "34b16805d6ba24253bfb2a0e5ad4cdf1d6244d5a95574dbea5b9ab2bd3337fdc",
+  "channel": "stable",
+  "notes": "Portable Windows runtime hotfix"
 }
