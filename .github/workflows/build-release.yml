@@ -1,0 +1,25 @@
+name: Build JARVIS Release
+on:
+  push:
+    paths:
+      - 'jarvis.py'
+      - 'requirements.txt'
+      - '.github/workflows/build-release.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install --upgrade pip
+      - run: pip install -r requirements.txt
+      - run: pyinstaller --noconfirm --clean --onefile --windowed --name JARVIS jarvis.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: JARVIS-Windows
+          path: dist/JARVIS.exe
