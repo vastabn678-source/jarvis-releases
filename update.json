@@ -1,7 +1,7 @@
 {
-  "version": "2.0",
+  "version": "5.0",
   "channel": "stable",
-  "notes": "JARVIS 2.0 release channel initialized. Binary URL will be populated when the Windows build is published.",
+  "notes": "JARVIS RELEASE 5.0 updater-enabled baseline.",
   "download_url": "",
   "sha256": ""
 }
