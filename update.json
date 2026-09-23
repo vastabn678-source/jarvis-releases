@@ -1,7 +1,7 @@
 {
-  "notes": "Portable Windows runtime hotfix",
-  "channel": "stable",
-  "version": "5.1.2",
+  "sha256": "602f5a2fed257a9c5dea9f27b442acfb1ba773161c1cb616ca087aeb31c32512",
   "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.1.2/JARVIS.zip",
-  "sha256": "4766098ee118fecdecd8b1ba3edd33858e02f2de32210d27fabb4c20f99694df"
+  "version": "5.1.2",
+  "notes": "Portable Windows runtime hotfix",
+  "channel": "stable"
 }
