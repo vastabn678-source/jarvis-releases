@@ -1,7 +1,7 @@
 {
+  "sha256": "234d6fa990e1a6ffeea304f9bb7a51ad661fbbe0a1ce6e097673747c85c8f16b",
+  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.1.1/JARVIS.exe",
   "channel": "stable",
-  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/latest/JARVIS.exe",
-  "version": "5.1",
-  "sha256": "4e21c57e21134da81827cda929ba028b6e3526b5c1916bba1ea83a009acb46fa",
-  "notes": "Automatic agent/executor update"
+  "notes": "Windows packaging hotfix",
+  "version": "5.1.1"
 }
