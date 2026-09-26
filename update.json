@@ -1,7 +1,7 @@
 {
-  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.6/JARVIS.zip",
-  "sha256": "126e5fa9ab53e356ca222987e56f1942a94deb98d0ba4b830f8f7d97dceba701",
+  "notes": "JARVIS 5.7: UA/RU text and speech; safe Windows apps and games; USB Mobile preserved",
+  "version": "5.7",
   "channel": "stable",
-  "notes": "JARVIS 5.6 stable update: Mobile Bridge port diagnostics and Wi-Fi discovery fixes",
-  "version": "5.6"
+  "sha256": "73551f27ce742bf58af0068ee6565766155e6ebcb9773663d025eb255c4fc117",
+  "download_url": "https://github.com/vastabn678-source/jarvis-releases/releases/download/v5.7/JARVIS.zip"
 }
